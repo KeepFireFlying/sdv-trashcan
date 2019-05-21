@@ -1,0 +1,14 @@
+{
+  "useid": "KeepFireFlying.Trashcan",
+  "machines": [
+    {
+      "id": 0,
+      "name": "Trashcan",
+      "description": "A trashcan that acts like a chest",
+      "category": "Chest",
+      "texture": "trashcan.png",
+      "crafting": "168 1",
+      "pulsate": false
+    }
+  ]
+}
